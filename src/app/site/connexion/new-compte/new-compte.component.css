@@ -1,0 +1,14 @@
+.form-control{
+    width: 20%;
+    border: black solid 1px;
+}
+h1{
+    width:60%;
+}
+@media only screen and (max-width: 700px) {
+    .form-control{
+        width:100%
+    }
+
+    
+}
